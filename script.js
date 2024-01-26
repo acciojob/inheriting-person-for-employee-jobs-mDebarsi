@@ -1,4 +1,4 @@
-// complete this js code
+// Constructor function for Person
 function Person(name, age) {
   this.name = name;
   this.age = age;
